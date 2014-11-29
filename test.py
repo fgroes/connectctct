@@ -1,7 +1,3 @@
-"""
-Created on Sat Nov 29 20:58:07 2014
-@author: fritz
-"""
 from OpenGL.GLUT import *
 from OpenGL.GLU import *
 from OpenGL.GL import *
